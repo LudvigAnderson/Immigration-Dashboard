@@ -1,4 +1,4 @@
-# Immigration-Visualization
+# Immigration-Dashboard
 In the file `immigration_dashboard.pbix`, you can see an interactive dashboard visualizing Norwegian immigration data. If you only want to have a quick look, I have also exported the Power BI file as a PDF to provide a static screenshot of the dashboard. You can see this in `dashboard_screenshot.pdf`.
 
 The data is dynamically retrieved directly from Statistics Norway's API. Because the original JSON format of the response contains a lot of unnecessary data and is inconveniently structured, several transformations are first performed to clean and prepare the data for visualizations.
