@@ -7,7 +7,7 @@ The data is dynamically retrieved directly from Statistics Norway's API. Because
 The dashboard contains the following elements:
 * A year filter, allowing you to select the year for which you want to see the immigration data.
 * A bar chart of all countries sorted by the number of immigrants in Norway.
-* A line chart of the number of the total number of immigrants from 1970 until the current year.
+* A line chart of the total number of immigrants from 1970 until the current year.
   * If you highlight specific countries, the line chart will be updated to consider only your selection.
 * A text area that shows the year's biggest positive and negative changes in immigrants from the previous year.
   * Note that there are no valid values for this before 1987 because values 1971-1979 and 1981-1985 don't exist.
